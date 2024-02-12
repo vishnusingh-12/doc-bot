@@ -30,7 +30,7 @@ The model uses a quantized llama 2 model and can also run on cpu with no change 
 
 
 ## Technologies
-<img src="https://raw.githubusercontent.com/vishnusingh-12/main/readme/docbot.PNG">
+<img src="https://github.com/vishnusingh-12/doc-bot/blob/main/readme/docbot.PNG">
 
 ## Support
 
