@@ -11,7 +11,7 @@ A medical chatbot that can talk about medicines, diseases, symptoms and treatmen
 
 ## Screenshots
 
-![App Screenshots](https://raw.githubusercontent.com/vishnusingh-12/doc-bot/)
+![App Screenshots](https://github.com/vishnusingh-12/doc-bot/blob/main/bot.PNG)
 
 
 
