@@ -22,10 +22,11 @@ cd doc-bot
 pip install -r requirements.txt
 python embedding_creation.py
 chainlit run model.py </pre>
-Instead of python app.py you can also double click on app.py and wait for the application to run.
 
-The model uses Pytorch and cuda 11.8 for training the model. The Drwosiness_detection.ipynb file has all the information to train your own custom model using CPU as well.
-To run app.py (my custom model) torch and  opencv are required after cloning the repo.
+The model uses GPU with CUDA 11.8 to run for which LlamaCpp has to be configured differently. Follow the below link for reference:
+https://python.langchain.com/docs/integrations/llms/llamacpp
+
+The model uses a quantized llama 2 model and can also run on cpu with no change in the code. If LlamaCpp Cuda version is available it uses GPU else it uses CPU. 
 
 
 ## Technologies
