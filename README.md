@@ -11,7 +11,7 @@ A medical chatbot that can talk about medicines, diseases, symptoms and treatmen
 
 ## Screenshots
 
-![App Screenshots](https://github.com/vishnusingh-12/doc-bot/blob/main/bot.PNG)
+![App Screenshots](https://github.com/vishnusingh-12/doc-bot/blob/main/readme/bot.PNG)
 
 
 
@@ -30,7 +30,7 @@ The model uses a quantized llama 2 model and can also run on cpu with no change 
 
 
 ## Technologies
-<img src="https://raw.githubusercontent.com/vishnusingh-12/drowsiness-detection/master/readme/techs.PNG">
+<img src="https://raw.githubusercontent.com/vishnusingh-12/main/readme/docbot.PNG">
 
 ## Support
 
